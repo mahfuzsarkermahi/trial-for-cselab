@@ -32,17 +32,6 @@ This repository contains presentation materials, reports and resources for **SEU
 
 ## 🎨 Topic Overview: Data & Security
 
-Key Areas of Focus/
-├── slides.pptx
-├── speaker_notes.md
-└── backup_materials.pdf
-
-
-RESOURCES/
-├── references.md (Links and citations)
-├── tools.md (Technologies used)
-└── external_links.md (Helpful websites)
-
 
 ### Key Areas of Focus:
 1. **Data Protection** - Encryption, access control, privacy regulations
