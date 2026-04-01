@@ -14,7 +14,7 @@ This repository contains presentation materials, reports and resources for **SEU
 ### Instructors
 | Name | Role | GitHub |
 |------|------|--------|
-| Tashreef Muhammad | Course Instructor | [Tashreef Muhammad](https://github.com/TashreefMuhammad) |
+| Tashreef Muhammad | Course Instructor | [Tashreef Muhammad](https://github.com/Tashreef Muhammad) |
 
 ---
 
@@ -30,9 +30,31 @@ This repository contains presentation materials, reports and resources for **SEU
 
 ---
 
+## 🎨 Topic Overview: Data & Security
+
+Key Areas of Focus/
+├── slides.pptx
+├── speaker_notes.md
+└── backup_materials.pdf
 
 
-### Topic Overview
+RESOURCES/
+├── references.md (Links and citations)
+├── tools.md (Technologies used)
+└── external_links.md (Helpful websites)
+
+
+### Key Areas of Focus:
+1. **Data Protection** - Encryption, access control, privacy regulations
+2. **Cyber Security** - Threats, vulnerabilities, mitigation strategies
+3. **Compliance** - GDPR, ISO standards, industry best practices
+4. **Case Studies** - Real-world examples & incidents
+
+### Objectives:
+- Understand the importance of data security
+- Learn current security threats and solutions
+- Analyze industry best practices
+- Develop awareness on privacy and compliance
 
 
 
@@ -40,20 +62,45 @@ This repository contains presentation materials, reports and resources for **SEU
 
 ### Project Workflow
 
+---
+
+## 🤖 AI Tools & Resources Used
+
+| Tool | Purpose | Link |
+|------|---------|------|
+| ChatGPT / Claude | Content Research & Writing | [OpenAI](https://openai.com) / [Anthropic](https://anthropic.com) |
+| Canva | Design & Visual Creation | [Canva](https://canva.com) |
+| Grammarly | Content Editing & Proofreading | [Grammarly](https://grammarly.com) |
+| GitHub | Version Control & Collaboration | [GitHub](https://github.com) |
+
+**AI Usage Policy:** All AI tools are used responsibly with proper attribution and human verification.
 
 ---
 
-### Use of AI Tools
+
+## 📈 Spreadsheet Explanation
+
+We maintain a project tracking spreadsheet that includes:
+
+- **Timeline:** Milestones and deadlines
+- **Task Distribution:** Who's responsible for what
+- **Progress Tracking:** Completion status of each component
+- **Resource Management:** Links to all materials
+
+📌 [View Project Spreadsheet](link-to-spreadsheet) *(To be added)*
+
 
 ---
 
 
-### Speardsheet Explanation
+## 📊 Contribution of Each Member
 
+| Member | Responsibility | Status | % Complete |
+|--------|-----------------|--------|------------|
+| MD. MAHFUZ SARKER MAHI | Project Coordination, Technical Implementation | In Progress | 70% |
+| FARZANA AHMED | Research, Documentation, Report Writing | In Progress | 65% |
+| TASPRIA CHOWDHURY ANISHA | Presentation Design, Visual Content | In Progress | 75% |
 
----
-
-
-### Contribution of Each Member
+**Total Project Progress:** ~70%
 
 ---
