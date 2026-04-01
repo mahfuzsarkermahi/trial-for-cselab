@@ -58,8 +58,10 @@ This repository contains presentation materials, reports and resources for **SEU
 | Tool | Purpose | Link |
 |------|---------|------|
 | ChatGPT / Claude | Content Research & Writing | [OpenAI](https://openai.com) / [Anthropic](https://anthropic.com) |
-| Canva | Design & Visual Creation | [Canva](https://canva.com) |
+| Gemini Pro | Content Research & Writing | [Gemini](https://gemini.google.com/) |
+| Canva Pro | Design & Visual Creation | [Canva](https://canva.com) |
 | Grammarly | Content Editing & Proofreading | [Grammarly](https://grammarly.com) |
+| GitHub Copilot Pro | Solving error | [GitHub Copilot](https://github.com/copilot) |
 | GitHub | Version Control & Collaboration | [GitHub](https://github.com) |
 
 **AI Usage Policy:** All AI tools are used responsibly with proper attribution and human verification.
@@ -83,13 +85,11 @@ We maintain a project tracking spreadsheet that includes:
 
 
 ## 📊 Contribution of Each Member
+| Member | Responsibility | Status |
+|--------|-----------------|--------|
+| MD. MAHFUZ SARKER MAHI | Project Coordination, Technical Implementation | In Progress |
+| FARZANA AHMED | Research, Documentation, Report Writing | In Progress |
+| TASPRIA CHOWDHURY ANISHA | Presentation Design, Visual Content | In Progress |
 
-| Member | Responsibility | Status | % Complete |
-|--------|-----------------|--------|------------|
-| MD. MAHFUZ SARKER MAHI | Project Coordination, Technical Implementation | In Progress | 70% |
-| FARZANA AHMED | Research, Documentation, Report Writing | In Progress | 65% |
-| TASPRIA CHOWDHURY ANISHA | Presentation Design, Visual Content | In Progress | 75% |
-
-**Total Project Progress:** ~70%
 
 ---
