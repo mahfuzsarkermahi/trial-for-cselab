@@ -66,6 +66,15 @@ This repository contains presentation materials, reports and resources for **SEU
 
 **AI Usage Policy:** All AI tools are used responsibly with proper attribution and human verification.
 
+
+
+
+## 🔹 AI Usage Table
+
+| Tool Used | Purpose | Example Prompt (Short) | Output Used | Modification Done | Verification Method | Who Used It |
+|------|---------|------|------|---------|------|---------|
+
+
 ---
 
 
