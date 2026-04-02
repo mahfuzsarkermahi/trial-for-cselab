@@ -61,7 +61,7 @@ This repository contains presentation materials, reports and resources for **SEU
 | Gemini Pro | Content Research & Writing | [Gemini](https://gemini.google.com/) |
 | Grammarly | Content Editing & Proofreading | [Grammarly](https://grammarly.com) |
 | Canva Pro | Design & Visual Creation | [Canva](https://canva.com) |
-| GitHub Copilot Pro | Solving error | [GitHub Copilot](https://github.com/copilot) |
+| GitHub Copilot Pro | Solving Error | [GitHub Copilot](https://github.com/copilot) |
 | GitHub | Version Control & Collaboration | [GitHub](https://github.com) |
 
 **AI Usage Policy:** All AI tools are used responsibly with proper attribution and human verification.
