@@ -59,8 +59,8 @@ This repository contains presentation materials, reports and resources for **SEU
 |------|---------|------|
 | ChatGPT / Claude | Content Research & Writing | [OpenAI](https://openai.com) / [Anthropic](https://anthropic.com) |
 | Gemini Pro | Content Research & Writing | [Gemini](https://gemini.google.com/) |
-| Canva Pro | Design & Visual Creation | [Canva](https://canva.com) |
 | Grammarly | Content Editing & Proofreading | [Grammarly](https://grammarly.com) |
+| Canva Pro | Design & Visual Creation | [Canva](https://canva.com) |
 | GitHub Copilot Pro | Solving error | [GitHub Copilot](https://github.com/copilot) |
 | GitHub | Version Control & Collaboration | [GitHub](https://github.com) |
 
